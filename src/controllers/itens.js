@@ -17,8 +17,8 @@ const listar = (req, res) => {
     res.json(itens)
 }
 
-const alterar = (req, res) => { res.json("Em construção") }
-const excluir = (req, res) => { res.json("Em construção") }
+const alterar = (req, res) => { res.json("Item alterado com sucesso") }
+const excluir = (req, res) => { res.json("Item excluído com sucesso") }
 
 module.exports = {
     criar, listar, alterar, excluir

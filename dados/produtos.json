@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "nome":"lirvos",
+        "preco":30
+    },
+    {
+        "id":1,
+        "nome":"Kindle",
+        "preco":900.00
+    }
+]
